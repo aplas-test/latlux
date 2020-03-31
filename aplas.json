@@ -1,23 +1,27 @@
 {
-  "id": "latlux",
-  "name": "Latlux",
-  "categoryId": "core",
-  "description": "Multi-channelled analyzing budgetary management",
-  "investment_24m": "719",
-  "hostedtype": "OnPremise",
-  "vendor_contact_name": "Veronike Dwyr",
-  "licensing_cost": "67",
-  "status_color": "#00FF00",
-  "type": "InHouseDev",
-  "support_cost": "499",
-  "deployment_date": "25/6/07",
-  "end_of_maintenance": "27/2/17",
-  "department": "Engineering",
-  "status": "Active",
-  "end_of_life": "7/5/18",
-  "vendor_email": "Veronike.Dwyr@RedHat.com",
-  "months_to_renew_support": "36",
-  "sme_email": "Hieronymus.Presnail@memento.net.au",
-  "vendor_phone": "+686 612 125 1400",
-  "investment_number": "153"
+  "applications": [
+    {
+      "id": "latlux",
+      "name": "Latlux",
+      "categoryId": "core",
+      "description": "Multi-channelled analyzing budgetary management",
+      "investment_24m": "719",
+      "hostedtype": "OnPremise",
+      "vendor_contact_name": "Veronike Dwyr",
+      "licensing_cost": "67",
+      "status_color": "#00FF00",
+      "type": "InHouseDev",
+      "support_cost": "499",
+      "deployment_date": "25/6/07",
+      "end_of_maintenance": "27/2/17",
+      "department": "Engineering",
+      "status": "Active",
+      "end_of_life": "7/5/18",
+      "vendor_email": "Veronike.Dwyr@RedHat.com",
+      "months_to_renew_support": "36",
+      "sme_email": "Hieronymus.Presnail@memento.net.au",
+      "vendor_phone": "+686 612 125 1400",
+      "investment_number": "153"
+    }
+  ]
 }
