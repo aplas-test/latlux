@@ -21,7 +21,67 @@
       "months_to_renew_support": "36",
       "sme_email": "Hieronymus.Presnail@memento.net.au",
       "vendor_phone": "+686 612 125 1400",
-      "investment_number": "153"
+      "investment_number": "153",
+      "integrations": [
+        {
+          "id": "int-218",
+          "name": "INT-218",
+          "categoryId": "f577e6b3-e343-4ec8-ab63-47985e0b2799",
+          "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",
+          "sourceApplicationId": "latlux",
+          "targetApplicationId": "offline_mobile",
+          "logical_server": "ONLINE",
+          "status_color": "#FF0000",
+          "pattern": "Countent Based Router",
+          "golive_date": "23/5/12",
+          "sme_name": "Hildegaard Tollit",
+          "decom_date": "1/6/17",
+          "datacentre": "Altona",
+          "department": "Datawarehouse",
+          "status": "Decomissioned",
+          "sme_email": "htollita@memento.net.au",
+          "complexity": "High",
+          "last_deployment_date": "2/1/16"
+        },
+        {
+          "id": "int-423",
+          "name": "INT-423",
+          "categoryId": "3bdb7133-46fe-4c31-a5ec-9910379cbf29",
+          "description": "Vivamus tortor. Duis mattis egestas metus. Aenean fermentum.",
+          "sourceApplicationId": "latlux",
+          "targetApplicationId": "veribet",
+          "logical_server": "BATCH",
+          "status_color": "#00FF00",
+          "pattern": "Aggregator",
+          "golive_date": "2/8/12",
+          "sme_name": "Gilberto Thompkins",
+          "datacentre": "Dandenong",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "gthompkins0@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "22/2/17"
+        },
+        {
+          "id": "int-139",
+          "name": "INT-139",
+          "categoryId": "59389244-3d74-4e25-9019-51854731feb4",
+          "description": "Etiam vel augue. Vestibulum rutrum rutrum neque.",
+          "sourceApplicationId": "latlux",
+          "targetApplicationId": "redhold",
+          "logical_server": "ONLINE",
+          "status_color": "#00FF00",
+          "pattern": "Scatter Gather",
+          "golive_date": "18/10/06",
+          "sme_name": "Flem Mungan",
+          "datacentre": "Dandenong",
+          "department": "System Control",
+          "status": "Active",
+          "sme_email": "fmungan4@memento.net.au",
+          "complexity": "High",
+          "last_deployment_date": "28/6/17"
+        }
+      ]
     }
   ]
 }
